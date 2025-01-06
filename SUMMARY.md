@@ -1,10 +1,14 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Pumplend - The Lending Protocol for Pump Coins](README.md)
 
-## About
+## 📖 About
 
 * [How it works ?](about/how-it-works.md)
+
+***
+
+* [❓ FAQ](faq.md)
 
 ## DEV & SDK
 
