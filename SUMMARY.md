@@ -5,6 +5,7 @@
 ## 📖 About
 
 * [How it works ?](about/how-it-works.md)
+* [Fees](about/fees.md)
 
 ***
 
