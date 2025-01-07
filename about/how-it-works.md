@@ -14,7 +14,7 @@ Once the tokens are selected and collateralized, users can borrow **SOL**. The a
 
 Once the SOL and interest are repaid, users can redeem their **pump tokens** from the system, returning to their initial position.
 
-### LONG
+## LONG
 
 **Step 1: Choose the pump coin you want to long**
 

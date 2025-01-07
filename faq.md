@@ -1,4 +1,4 @@
-# ❓ FAQ
+# FAQ
 
 ## Does Pumplend support all tokens on Pump.fun?&#x20;
 

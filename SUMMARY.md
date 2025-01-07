@@ -6,10 +6,12 @@
 
 * [How it works ?](about/how-it-works.md)
 * [Fees](about/fees.md)
+* [Use Cases](about/use-cases.md)
+* [Devnet](about/devnet.md)
 
 ***
 
-* [❓ FAQ](faq.md)
+* [FAQ](faq.md)
 
 ## DEV & SDK
 
