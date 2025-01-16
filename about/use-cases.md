@@ -7,7 +7,7 @@ description: https://t.me/+tRNpl_ZpumRlMWM1
 ## &#x20;**Pump.fun Players**
 
 * **Unlock Liquidity**: Pump players can collateralize their Pump tokens to borrow SOL, gaining liquidity without having to sell their assets.
-* **Long Opportunities**: Players can use the leverage feature to amplify their investment returns on meme tokens within the Pump ecosystem.
+* **Long Opportunities**: Players can use the "Max buy" feature to amplify their investment returns on meme tokens within the Pump ecosystem.
 
 ***
 
