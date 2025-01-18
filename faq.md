@@ -1,18 +1,18 @@
-# FAQ
+# ❓ FAQ
 
-## Does Pumplend support all tokens on Pump.fun?&#x20;
+## Does Pumplend support all tokens on Pump.fun?
 
 Yes.Pumplend supports all tokens created on the pump platform.
 
 ***
 
-## How does Pumplend handle liquidation?&#x20;
+## How does Pumplend handle liquidation?
 
 Liquidation occurs when the total interest exceeds the value of the collateral. In such cases, the collateral will be liquidated to cover the outstanding debt.
 
 ***
 
-## Is the interest rate (DPR) for borrowing SOL fixed or dynamic?&#x20;
+## Is the interest rate (DPR) for borrowing SOL fixed or dynamic?
 
 The interest rate (DPR) for borrowing SOL is dynamic. It adjusts based on market supply and demand to maintain the balance of the liquidity pool. Borrowers are advised to check the real-time interest rate before proceeding and be aware of potential fluctuations.
 
@@ -30,4 +30,3 @@ The borrowable amount of SOL is estimated based on the **Pump.fun bonding curve*
 Currently, the maximum leverage supported is up to **3.3X**.
 
 ***
-

@@ -11,7 +11,7 @@
 
 ***
 
-* [FAQ](faq.md)
+* [❓ FAQ](faq.md)
 
 ## DEV & SDK
 
