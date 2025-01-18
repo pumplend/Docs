@@ -20,3 +20,5 @@
 ## LINKS
 
 * [Website](https://pumplend.fun/)
+* [Github](https://github.com/pumplend)
+* [TestnetDapp](https://testnet.pumpmax.fun/)
