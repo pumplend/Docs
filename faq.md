@@ -1,12 +1,12 @@
 # ❓ FAQ
 
-## Does Pumplend support all tokens on Pump.fun?
+## Does Pumpmax support all tokens on Pump.fun?
 
-Yes.Pumplend supports all tokens created on the pump platform.
+Yes.Pumpmax supports all tokens created on the pump platform.However, we recommend coins not yet listed on Raydium.
 
 ***
 
-## How does Pumplend handle liquidation?
+## How does Pumpmax handle liquidation?
 
 Liquidation occurs when the total interest exceeds the value of the collateral. In such cases, the collateral will be liquidated to cover the outstanding debt.
 

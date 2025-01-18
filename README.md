@@ -8,13 +8,13 @@ icon: syringe
 
 Pumplend is an innovative lending protocol designed for the **Pump.fun** ecosystem, enabling users to maximize liquidity and interact with the unique **Pump bonding curve**. This protocol allows users to collateralize pump coins to borrow SOL (Solana token) or leverage SOL to long their favorite memes, all while taking full advantage of pump's liquidity dynamics.
 
-Pumpmax is the first innovative protocol  on **Pump.fun** dedicated to helping pump enthusiasts enhance their trading capabilities in a straightforward, user-friendly manner.  Pumpmax enabling users to maximize liquidity and interact with the unique **Pump bonding curve**.This protocol allows users to collateralize pump coins to borrow SOL or Deposit SOL to max buy pump coins( leverage SOL to long ), all while taking full advantage of pump's liquidity dynamics.
+Pumpmax is the first innovative protocol on **Pump.fun** dedicated to helping pump enthusiasts enhance their trading capabilities in a straightforward, user-friendly manner. Pumpmax enabling users to maximize liquidity and interact with the unique **Pump bonding curve**.This protocol allows users to collateralize pump coins to borrow SOL or Deposit SOL to max buy pump coins( leverage SOL to long ), all while taking full advantage of pump's liquidity dynamics.
 
-### Our core features include:&#x20;
+### Our core features include:
 
-* &#x20;Max Buy: Deposit  SOL and instantly see the maximum amount of memecoins you can purchase, without manually adjusting leverage or complex parameters.&#x20;
-* Max Borrow: Easily access additional funds to capitalize on market opportunities, all through a streamlined borrowing process.
-* Earn SOL: Put your assets to work through a simple, low-friction staking mechanism, allowing you to earn passive returns.
+* **Max Buy**: Deposit SOL and instantly see the maximum amount of memecoins you can purchase, without manually adjusting leverage or complex parameters.
+* **Max Borrow**: Easily access additional funds to capitalize on market opportunities, all through a streamlined borrowing process.
+* **Earn SOL**: Put your assets to work through a simple, low-friction staking mechanism, allowing you to earn passive returns.
 * **Repayment and Redemption**: After repaying the borrowed SOL and interest, users can redeem their initial pump tokens, ensuring they get back their collateral.
 
 ### Benefits of Pumplend
