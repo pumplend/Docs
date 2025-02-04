@@ -2,16 +2,20 @@
 
 * [PumpMax - Max Pump Coins](README.md)
 
-## 📖 About
+## About
 
 * [How it works ?](about/how-it-works.md)
+* [Max Buy](about/max-buy.md)
+* [Borrow](about/borrow.md)
+* [Earn](about/earn.md)
 * [Fees](about/fees.md)
 * [Use Cases](about/use-cases.md)
 * [Devnet](about/devnet.md)
 
 ***
 
-* [❓ FAQ](faq.md)
+* [FAQ](faq.md)
+* [Future](future.md)
 
 ## DEV & SDK
 

@@ -1,4 +1,8 @@
-# ❓ FAQ
+---
+icon: question
+---
+
+# FAQ
 
 ## Does Pumpmax support all tokens on Pump.fun?
 
@@ -21,6 +25,14 @@ The interest rate (DPR) for borrowing SOL is dynamic. It adjusts based on market
 ## At what price can the collateralized Pump coins be used to borrow SOL?
 
 The borrowable amount of SOL is estimated based on the **Pump.fun bonding curve**, calculating the minimum liquidation collateral ratio to determine the collateralizable amount KK. A 20% dilution buffer is reserved for the Raydium curve, along with a 10% buffer for interest rate liquidation. The final collateral value is calculated as **0.7K**.
+
+***
+
+## "Why doesn't the displayed debt match the borrowed or repayable SOL?"
+
+The different SOL is for account rent, used to create an SPL-PDA account that records token info and transactions. Don't worry—once repaid, the account will close, and the rent will be refunded.
+
+
 
 ***
 
