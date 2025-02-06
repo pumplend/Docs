@@ -4,6 +4,14 @@ icon: syringe
 
 # PumpMax - Max Pump Coins
 
+## Motivation
+
+Pump.fun, one of the most successful products on Solana, sees daily trading volumes in the hundreds of millions, thousands of new coin launches, and hundreds of thousands of active addresses. While many trading tools have emerged around Pump.fun, we found a lack of financial tools—especially basic lending products.
+
+Historically, long-tail assets have struggled with low liquidity, fragmented markets, high volatility, and unstable price oracles, leading to weak borrowing demand. However, Pump.fun offers ample liquidity, and its bonding curve mechanism helps mitigate price swings and liquidation delays.
+
+This led us to create a financial tool specifically for Pump.fun users, integrating lending and spot leverage to fully unlock the liquidity potential of Pump coins.
+
 ## Introduction
 
 Pumplend is an innovative lending protocol designed for the **Pump.fun** ecosystem, enabling users to maximize liquidity and interact with the unique **Pump bonding curve**. This protocol allows users to collateralize pump coins to borrow SOL (Solana token) or leverage SOL to long their favorite memes, all while taking full advantage of pump's liquidity dynamics.
