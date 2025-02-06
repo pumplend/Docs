@@ -20,6 +20,7 @@
 ## DEV & SDK
 
 * [SDK](dev-and-sdk/sdk.md)
+* [Contract](dev-and-sdk/contract.md)
 
 ## LINKS
 
