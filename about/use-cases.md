@@ -1,6 +1,6 @@
 ---
-description: https://t.me/+tRNpl_ZpumRlMWM1
 icon: phone
+description: https://t.me/+tRNpl_ZpumRlMWM1
 ---
 
 # Use Cases
@@ -14,7 +14,7 @@ icon: phone
 
 ## **Market Makers**
 
-* **Liquidity Optimization**: Pumplend offers additional borrowing channels, enabling market makers to expand their capital pools and enhance liquidity management.
+* **Liquidity Optimization**: PumpMax offers additional borrowing channels, enabling market makers to expand their capital pools and enhance liquidity management.
 * **Capital Efficiency Boost**: With leverage mechanisms, market makers can utilize their capital more flexibly to maximize returns.
 
 ***
@@ -28,14 +28,14 @@ icon: phone
 
 ## **Trading Terminal**
 
-* **Efficient Transactions**: With Pumplend integrated into the trading terminal, users can complete collateralization, borrowing, and leveraging operations with a single click.
+* **Efficient Transactions**: With PumpMax integrated into the trading terminal, users can complete collateralization, borrowing, and leveraging operations with a single click.
 * **Flexible Strategies**: Offers efficient leverage tools, enabling users to quickly execute long positions or cash out strategies.
 
 ***
 
 ## **AI Agent**
 
-* **Automated Strategy Support**: AI Agents can integrate Pumplend's leverage and yield tools to design optimal investment paths for users.
+* **Automated Strategy Support**: AI Agents can integrate PumpMax's leverage and yield tools to design optimal investment paths for users.
 * **Risk Management**: AI Agents can monitor liquidation risks and automatically adjust collateral or repayment strategies to minimize potential losses.
 
 ***
@@ -49,5 +49,5 @@ icon: phone
 
 ## **Yield Aggregator Users**
 
-* **Higher Yield Opportunities**: Pumplend's leverage mechanism provides yield aggregator users with the potential for higher annual returns.
+* **Higher Yield Opportunities**: PumpMax's leverage mechanism provides yield aggregator users with the potential for higher annual returns.
 * **Strategy Diversity**: Aggregators can utilize Pumplend's lending services to offer users leverage mining or arbitrage strategies.
