@@ -8,6 +8,8 @@ icon: cart-shopping
 
 The Maxbuy feature on Pumpmax is designed to help you maximize your Pump coin acquisitions by leveraging the automated market maker mechanism of Pump.fun's bonding curve. Essentially, Maxbuy is a form of spot leverage—allowing you to boost your buying power without selling your existing Pump coins. This feature optimizes your purchase process, enabling you to get as many Pump coins as possible by efficiently circulating tokens.
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 ### Key Features
 
 * **Optimized Purchases:** Achieve the best possible purchase price by tapping into the bonding curve dynamics.

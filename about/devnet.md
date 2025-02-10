@@ -1,8 +1,8 @@
 ---
+icon: vial
 description: >-
   We have prepared a testnet for users to help them get to know Pumpmax.fun
   easily.
-icon: vial
 ---
 
 # Devnet
@@ -11,15 +11,15 @@ icon: vial
 
 ### Click "Settings" in the Phantom wallet to enter the "Developer Settings".
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Open "Testnet Mode" and select "Solana Devnet".
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 2: Open the website：[https://testnet.pumpmax.fun/](https://testnet.pumpmax.fun/)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Click on the “Devent faucet”
 

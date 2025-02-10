@@ -25,6 +25,8 @@ Pumpmax is the first innovative protocol on **Pump.fun** dedicated to helping pu
 * **Earn SOL**: Put your assets to work through a simple, low-friction staking mechanism, allowing you to earn passive returns.
 * **Repayment and Redemption**: After repaying the borrowed SOL and interest, users can redeem their initial pump tokens, ensuring they get back their collateral.
 
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ### Benefits of PumpMax
 
 * **Maximize Liquidity**: Unlock the full potential of your pump coins and use them to earn or speculate on other assets.

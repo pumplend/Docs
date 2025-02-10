@@ -4,6 +4,8 @@ icon: circle-user
 
 # How to use
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## Max Buy
 
 &#x20;Step 1: Select a Pump coin you want to buy .
