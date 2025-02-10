@@ -4,11 +4,12 @@
 
 ## About
 
-* [How it works ?](about/how-it-works.md)
+* [How to use](about/how-it-works.md)
+* [Max Borrow](about/max-borrow.md)
 * [Max Buy](about/max-buy.md)
-* [Borrow](about/borrow.md)
-* [Earn](about/earn.md)
+* [Earn SOL](about/earn-sol.md)
 * [Fees](about/fees.md)
+* [Refferal](about/refferal.md)
 * [Use Cases](about/use-cases.md)
 * [Devnet](about/devnet.md)
 

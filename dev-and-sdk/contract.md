@@ -1,5 +1,6 @@
 ---
 description: All the contract address you should trust
+icon: file-signature
 ---
 
 # Contract

@@ -2,6 +2,7 @@
 description: >-
   We have prepared a testnet for users to help them get to know Pumpmax.fun
   easily.
+icon: vial
 ---
 
 # Devnet
@@ -16,9 +17,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
-## Step 2: Open the website：[https://pumpmax.fun/](https://pumpmax.fun/)
+## Step 2: Open the website：[https://testnet.pumpmax.fun/](https://testnet.pumpmax.fun/)
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -35,4 +34,3 @@ description: >-
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### ③ Try the functions of "Max Buy", "Max borrow", and "Earn SOL".
-

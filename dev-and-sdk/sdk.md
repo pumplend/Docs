@@ -1,5 +1,6 @@
 ---
 description: SDK intergration of pumpmax protocol
+icon: arrow-down-to-line
 ---
 
 # SDK

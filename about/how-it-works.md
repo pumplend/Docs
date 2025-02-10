@@ -1,32 +1,27 @@
-# How it works ?
+---
+icon: circle-user
+---
 
-## Borrow
+# How to use
 
-#### Step 1: Choose the Tokens to Collateralize
+## Max Buy
 
-Users can start by selecting **pump tokens** they wish to collateralize. These tokens are secured as collateral in the lending protocol to access SOL.
+&#x20;Step 1: Select a Pump coin you want to buy .
 
-#### Step 2: Borrow SOL
+&#x20;Step 2:Deposit SOL to get the max coins. Confirm to execute loop borrowing and finish buy.
 
-Once the tokens are selected and collateralized, users can borrow **SOL**. The amount of SOL that can be borrowed depends on the value of the collateralized pump tokens and the parameters set within the Pumplend protocol.
+&#x20;Step 3:Click "Close" to exit the position and get SOL, or click "Repay" to pay interest and get coins.
 
-#### Step 3: Redeem Pump Tokens
+## Max Borrow
 
-Once the SOL and interest are repaid, users can redeem their **pump tokens** from the system, returning to their initial position.
+Step 1: Select a Pump coin you want to use as collateral.
 
-## LONG
+Step 2: Borrow out SOL.
 
-**Step 1: Choose the pump coin you want to long**
+Step 3: Click "Repay" to pay SOL and interest to redeem Pump coins. Click "Close" to sell coins and get SOL.
 
-Users can use SOL for recursive lending on the target pump coin to achieve a leveraged long effect.
+## Stak SOL
 
-#### Step 2: Sell  or Repay SOL
+Step1:Click “Supply" to deposit SOL and earn interest.
 
-Using the **sell** function, all coins are sold to obtain SOL. By selecting **repay**, the user pays the interest to retrieve their coins.
-
-
-
-
-
-
-
+Step2:Click "Withdraw" to withdraw your SOL and interest.
