@@ -9,9 +9,13 @@
 * [Max Buy](about/max-buy.md)
 * [Earn SOL](about/earn-sol.md)
 * [Fees](about/fees.md)
-* [Refferal](about/refferal.md)
 * [Use Cases](about/use-cases.md)
 * [Devnet](about/devnet.md)
+
+## Referral
+
+* [Rules](referral/rules.md)
+* [Referral Program Reward](referral/referral-program-reward.md)
 
 ***
 
@@ -28,3 +32,4 @@
 * [Website](https://pumplend.fun/)
 * [Github](https://github.com/pumplend)
 * [TestnetDapp](https://testnet.pumpmax.fun/)
+* [Telegram Group](https://t.me/+50XGEOayi543NzM1)

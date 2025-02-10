@@ -1,6 +1,5 @@
 ---
 icon: phone
-description: https://t.me/+tRNpl_ZpumRlMWM1
 ---
 
 # Use Cases
