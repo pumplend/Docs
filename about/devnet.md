@@ -15,7 +15,7 @@ description: >-
 
 ### Open "Testnet Mode" and select "Solana Devnet".
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Step 2: Open the website：[https://testnet.pumpmax.fun/](https://testnet.pumpmax.fun/)
 

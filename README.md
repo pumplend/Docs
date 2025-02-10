@@ -4,6 +4,8 @@ icon: syringe
 
 # PumpMax - Max Pump Coins
 
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ## Motivation
 
 Pump.fun, one of the most successful products on Solana, sees daily trading volumes in the hundreds of millions, thousands of new coin launches, and hundreds of thousands of active addresses. While many trading tools have emerged around Pump.fun, we found a lack of financial tools—especially basic lending products.
@@ -14,7 +16,7 @@ This led us to create a financial tool specifically for Pump.fun users, integrat
 
 ## Introduction
 
-Pumplend is an innovative lending protocol designed for the **Pump.fun** ecosystem, enabling users to maximize liquidity and interact with the unique **Pump bonding curve**. This protocol allows users to collateralize pump coins to borrow SOL (Solana token) or leverage SOL to long their favorite memes, all while taking full advantage of pump's liquidity dynamics.
+PumpMax is an innovative lending protocol designed for the **Pump.fun** ecosystem, enabling users to maximize liquidity and interact with the unique **Pump bonding curve**. This protocol allows users to collateralize pump coins to borrow SOL (Solana token) or leverage SOL to long their favorite memes, all while taking full advantage of pump's liquidity dynamics.
 
 Pumpmax is the first innovative protocol on **Pump.fun** dedicated to helping pump enthusiasts enhance their trading capabilities in a straightforward, user-friendly manner. Pumpmax enabling users to maximize liquidity and interact with the unique **Pump bonding curve**.This protocol allows users to collateralize pump coins to borrow SOL or Deposit SOL to max buy pump coins( leverage SOL to long ), all while taking full advantage of pump's liquidity dynamics.
 
@@ -25,7 +27,7 @@ Pumpmax is the first innovative protocol on **Pump.fun** dedicated to helping pu
 * **Earn SOL**: Put your assets to work through a simple, low-friction staking mechanism, allowing you to earn passive returns.
 * **Repayment and Redemption**: After repaying the borrowed SOL and interest, users can redeem their initial pump tokens, ensuring they get back their collateral.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Benefits of PumpMax
 
