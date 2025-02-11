@@ -15,6 +15,8 @@ The Borrow feature on Pumpmax allows you to unlock liquidity without selling you
 * **Simple Borrowing:** No flash loans or dynamic interest rates—just a clear, time-based liquidation process.
 * **Account Rent Refund:** A small fee (in SOL) covers the creation of an SPL-PDA account for tracking tokens and transactions. This fee is refunded once the loan is fully repaid.
 
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
 ### How It Works
 
 1. **Collateralization:**\

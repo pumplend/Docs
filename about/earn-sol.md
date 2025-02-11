@@ -15,6 +15,8 @@ The Earn feature on Pumpmax enables you to put your idle SOL to work by earning 
 * **Simple & Transparent:** A straightforward staking process with clear tracking of your rewards.
 * **Predictable Returns:** Interest accrues over a defined time period without the complications of dynamic rates.
 
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
 ### How It Works
 
 1. **Stake SOL:**\
