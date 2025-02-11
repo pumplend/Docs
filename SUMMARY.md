@@ -11,8 +11,8 @@
 * [Fees](about/fees.md)
 * [Use Cases](about/use-cases.md)
 * [Devnet](about/devnet.md)
-* [FAQ](about/faq.md)
-* [Future](about/future.md)
+* [FAQ](faq.md)
+* [Future](future.md)
 
 ## Referral
 
@@ -21,7 +21,7 @@
 
 ## DEV & SDK
 
-* [SDK](dev-and-sdk/sdk/README.md)
+* [SDK](dev-and-sdk/sdk.md)
   * [Demo & Example](dev-and-sdk/sdk/demo-and-example.md)
 * [Api Interface](dev-and-sdk/api-interface/README.md)
   * [Website Api](dev-and-sdk/api-interface/website-api.md)
@@ -29,7 +29,7 @@
 * [Liquidtor & Monitor](dev-and-sdk/liquidtor-and-monitor/README.md)
   * [Liquidtor Running Earning](dev-and-sdk/liquidtor-and-monitor/liquidtor-running-earning.md)
   * [Monitor Data Wash](dev-and-sdk/liquidtor-and-monitor/monitor-data-wash.md)
-* [Contract](dev-and-sdk/contract/README.md)
+* [Contract](dev-and-sdk/contract.md)
   * [Contract Interface](dev-and-sdk/contract/contract-interface.md)
 
 ## LINKS
