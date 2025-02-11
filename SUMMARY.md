@@ -34,7 +34,8 @@
 
 ## LINKS
 
+* [Dapp](https://app.pumpmax.fun/)
+* [TestnetDapp](https://testnet.pumpmax.fun/)
 * [Website](https://pumplend.fun/)
 * [Github](https://github.com/pumplend)
-* [TestnetDapp](https://testnet.pumpmax.fun/)
 * [Telegram Group](https://t.me/+50XGEOayi543NzM1)
